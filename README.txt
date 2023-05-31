@@ -3,7 +3,6 @@ Link : https://rebrand.ly/presto
 Download resnet18.pt and place it in PyTorch_CIFAR10/cifar10_models/state_dicts
 Download resnet18.pt and place it in PyTorch_CIFAR100/cifar100_models/state_dicts
 Download resnet18.pt and place it in PyTorch_STL10/stl10_models/state_dicts
-Data for SVHN and CIFAR10 is automatically fetched from within the code
 
 2. Creation of features - Run the following 2 commands to generate the features.
 
